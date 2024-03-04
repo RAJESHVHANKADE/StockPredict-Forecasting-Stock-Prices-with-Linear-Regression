@@ -18,7 +18,7 @@ Provides forecasts for future stock prices based on learned patterns and trends.
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/your-username/StockPredict.git
+   git clone https://github.com/RAJESHVHANKADE/StockPredict-Forecasting-Stock-Prices-with-Linear-Regression
 
 2. Install the required dependencies using pip:
 
